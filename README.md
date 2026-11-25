@@ -574,3 +574,5 @@ Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com) [![Twitt
 Looking for a custom boilerplate to kick off your project? I'd be glad to discuss how I can help you build one. Feel free to reach out anytime at contact@creativedesignsguru.com!
 
 [![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://github.com/sponsors/ixartz)
+
+Run `npm run check:access` to scan the database migrations with VibeRaven.
